@@ -1,7 +1,7 @@
 {
-    "name": "nectar-blocks/kirki",
+    "name": "kirki-framework/kirki",
     "type": "library",
-    "version": "6.0.0",
+    "version": "5.0.0",
     "keywords": [
         "WordPress",
         "Customizer"
@@ -13,10 +13,6 @@
         {
             "name": "Kirki Framework",
             "email": "support@themeum.com"
-        },
-        {
-            "name": "Nectarblocks",
-            "email": "support@nectarblocks.com"
         }
     ],
     "config": {
@@ -57,7 +53,7 @@
                 "kirki-packages/module-section-icons/src",
                 "kirki-packages/module-selective-refresh/src",
                 "kirki-packages/module-tooltips/src",
-                "kirki-packages/module-webfonts/src"
+                "kirki-packages/module-webfonts/src" 
             ],
             "Kirki\\Util\\": [
                 "kirki-packages/util/src"
